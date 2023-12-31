@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data",
-    "\\_pages",
-    "\\_posts"
+    "\\_sass",
+    "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\_posts\\2023-12-27-expedici\u00F3n-ojos-del-salado.markdown",
+  "SelectedNode": "\\_sass\\minimal-mistakes\\_archive.scss",
   "PreviewInSolutionExplorer": false
 }
