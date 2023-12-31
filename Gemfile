@@ -16,6 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache" , group: :jekyll_plugins
 gem "webrick"
 gem 'faraday-retry', '~> 2.2'
+gem "jekyll-archives"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

@@ -1,0 +1,8 @@
+﻿# main links
+main:
+  - title: "Sobre mí"
+    url: /Sobre mi/
+  - title: "Galería"
+    url: /galeria/
+  - title: "Blog"
+    url: /blog/
