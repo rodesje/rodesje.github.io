@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_sass",
-    "\\_sass\\minimal-mistakes"
+    "\\assets",
+    "\\assets\\images",
+    "\\_data",
+    "\\_includes",
+    "\\_pages",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_sass\\minimal-mistakes\\_archive.scss",
+  "SelectedNode": "\\assets\\images\\Pano-3.jpg",
   "PreviewInSolutionExplorer": false
 }
