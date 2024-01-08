@@ -3,9 +3,10 @@ layout: single
 title: Galería
 permalink: /galeria/
 ---
+Laguna de Montosa
 
 <figure class="half">
-    <a href="/assets/images/DJI_0541.jpg"></a>
-    <a href="/assets/images/Pano-3.jpg"></a>
+    <a href="/assets/images/DJI_0541.jpg"><img src="/assets/images/DJI_0541.jpg"></a>
+    <a href="/assets/images/Pano-3.jpg"><img src="/assets/images/Pano-3.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
