@@ -2,11 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\css",
     "\\assets\\images",
+    "\\_data",
+    "\\_includes",
+    "\\_pages",
     "\\_posts",
     "\\_sass",
     "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\assets\\images\\ubicacion_ODS.png",
+  "SelectedNode": "\\_pages\\galeria.markdown",
   "PreviewInSolutionExplorer": false
 }
