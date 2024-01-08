@@ -13,6 +13,8 @@ sidebar:
     image: /assets/images/Imagen1.jpg
     image_alt: "image"
     text: "Some text here."
+    image: /assets/images/ubicacion_ODS.png
+    image_alt: "image2"
   - title: "Another Title"
     text: "More text here."
 header:
