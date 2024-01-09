@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\images",
-    "\\_data",
     "\\_includes",
     "\\_pages",
     "\\_posts",
-    "\\_sass"
+    "\\_sass",
+    "\\_sass\\minimal-mistakes",
+    "\\_site",
+    "\\_site\\assets",
+    "\\_site\\assets\\css",
+    "\\_site\\_pages"
   ],
+  "SelectedNode": "\\_site\\assets\\css\\main.css",
   "PreviewInSolutionExplorer": false
 }
