@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
     "\\assets\\images",
     "\\_data",
     "\\_includes",
     "\\_pages",
     "\\_posts",
     "\\_sass",
-    "\\_sass\\minimal-mistakes"
+    "\\_site",
+    "\\_site\\galeria"
   ],
-  "SelectedNode": "\\_pages\\galeria.markdown",
+  "SelectedNode": "\\_site\\galeria\\index.html",
   "PreviewInSolutionExplorer": false
 }
