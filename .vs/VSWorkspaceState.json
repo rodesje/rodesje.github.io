@@ -3,9 +3,10 @@
     "",
     "\\assets",
     "\\assets\\images",
-    "\\_includes",
     "\\_pages",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass\\minimal-mistakes"
   ],
+  "SelectedNode": "\\_pages\\home.markdown",
   "PreviewInSolutionExplorer": false
 }
