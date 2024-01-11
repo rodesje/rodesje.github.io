@@ -2,13 +2,40 @@
 layout: single
 title: Galerí­a
 permalink: /galeria/
+gallery:
+  - url: /assets/images/laguna santa rosa.jpg
+    image_path: /assets/images/laguna santa rosa.jpg
+    alt: "placeholder image 2"
+    title: "Laguna Santa Rosa"
+  - url: /assets/images/penitentes.jpg
+    image_path: /assets/images/penitentes.jpg
+    alt: "placeholder image 3"
+    title: "Penitentes"
+  - url: /assets/images/wind.jpg
+    image_path: /assets/images/wind.jpg
+    alt: "placeholder image 4"
+    title: "Erosión eólica"
+  - url: /assets/images/tres cruces norte y central.jpg
+    image_path: /assets/images/tres cruces norte y central.jpg
+    alt: "placeholder image 5"
+    title: "Tres Cruces Norte y Central"
+gallery1:
+  - url: /assets/images/nubes.jpg
+    image_path: /assets/images/nubes.jpg
+    alt: "placeholder image 1"
+    title: "Nube"
 ---
-
+**Dron**
 <figure class="half">
     <a href="/assets/images/DJI_0541.jpg"><img src="/assets/images/DJI_0541.jpg"></a>
     <a href="/assets/images/Pano-3.jpg"><img src="/assets/images/Pano-3.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
+    </figure>
+
+**Montañas**
+{% include gallery id="gallery" layout ="half" %}
+**B&W**
+{% include gallery id="gallery1" %}
+
 
 FOTOGRAMETRÍA
 

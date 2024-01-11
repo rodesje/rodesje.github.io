@@ -1,16 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\images",
     "\\_includes",
     "\\_pages",
     "\\_posts",
-    "\\_sass",
-    "\\_sass\\minimal-mistakes",
-    "\\_site",
-    "\\_site\\assets",
-    "\\_site\\assets\\css",
-    "\\_site\\_pages"
+    "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\_site\\assets\\css\\main.css",
+  "SelectedNode": "\\assets\\images\\wind.jpg",
   "PreviewInSolutionExplorer": false
 }
