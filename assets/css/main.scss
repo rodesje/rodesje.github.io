@@ -100,7 +100,7 @@ figure.third figcaption { width: 100%; }
 /* ========================================================================== ARCHIVE ========================================================================== */
 .archive { margin-top: 1em; margin-bottom: 2em; }
 @media (min-width: 64em) { .archive { float: right; width: calc(100% - 200px); padding-right: 280px; } }
-@media (min-width: 80em) { .archive { width: calc(100% - 200px); padding-right: 180px; } }
+@media (min-width: 80em) { .archive { width: calc(100% - 180px); padding-right: 200px; } }
 
 .archive__item { position: relative; }
 .archive__item a { position: relative; z-index: 10; }
