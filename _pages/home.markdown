@@ -1,6 +1,7 @@
 ﻿---
 layout: home
 header:
-  image: /assets/images/Pano-3.jpg
+ excerpt: Prueba de texto con **markdown**
+ overlay_image: "/assets/images/DSC_Pano.jpg"
 permalink: /
 ---

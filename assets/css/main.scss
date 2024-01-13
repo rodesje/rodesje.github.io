@@ -113,7 +113,6 @@ figure.third figcaption { width: 100%; }
 .archive__item-title a[rel="permalink"]::before { content: ''; position: absolute; left: 0; top: 0; right: 0; bottom: 0; }
 .archive__item-title a + a { opacity: 0.5; }
 
-
 /* Social sharing ========================================================================== */
 .page__share { margin-top: 2em; padding-top: 1em; border-top: 1px solid #f2f3f3; }
 @media (max-width: 37.5em) { .page__share .btn span { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; } }
