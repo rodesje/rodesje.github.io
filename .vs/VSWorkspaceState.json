@@ -3,9 +3,13 @@
     "",
     "\\assets",
     "\\assets\\images",
+    "\\assets\\images\\teaser",
+    "\\_galeria",
+    "\\_includes",
     "\\_pages",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\home.html",
+  "SelectedNode": "\\assets\\images\\teaser\\ojosdelsalado_retorno.jpg",
   "PreviewInSolutionExplorer": false
 }

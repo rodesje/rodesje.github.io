@@ -1,7 +1,7 @@
 ---
 title: "Markup: HTML Tags and Formatting"
 header:
-  teaser: "/assets/images/penitentes.jpg"
+  teaser: "/assets/images/teaser/bangladesh 1190x390.jpg"
 categories:
   - Markup
 tags:

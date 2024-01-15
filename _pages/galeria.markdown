@@ -1,5 +1,5 @@
 ﻿---
-layout: single
+layout: collection
 title: Galerí­a
 permalink: /galeria/
 gallery:
@@ -27,7 +27,7 @@ gallery1:
 ---
 *Fotos, mapas, imágenes satelitales*
 
-[Dron](#link){: .btn .btn--primary .btn--small}
+[Dron](/galeria/gis){: .btn .btn--primary .btn--small}
 
 <figure class="half"><a href="/assets/images/DJI_0541.jpg"><img src="/assets/images/DJI_0541.jpg"></a>
     <a href="/assets/images/Pano-3.jpg"><img src="/assets/images/Pano-3.jpg"></a>
@@ -52,3 +52,5 @@ gallery1:
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
+
+
