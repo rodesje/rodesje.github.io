@@ -8,8 +8,11 @@
     "\\_includes",
     "\\_pages",
     "\\_posts",
-    "\\_sass"
+    "\\_sass",
+    "\\_site",
+    "\\_site\\galeria",
+    "\\_site\\galeria\\Gis"
   ],
-  "SelectedNode": "\\assets\\images\\teaser\\ojosdelsalado_retorno.jpg",
+  "SelectedNode": "\\_pages\\galeria.markdown",
   "PreviewInSolutionExplorer": false
 }
