@@ -2,17 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\images",
-    "\\assets\\images\\teaser",
-    "\\_galeria",
+    "\\assets\\css",
     "\\_includes",
-    "\\_pages",
-    "\\_posts",
-    "\\_sass",
-    "\\_site",
-    "\\_site\\galeria",
-    "\\_site\\galeria\\Gis"
+    "\\_sass\\minimal-mistakes",
+    "\\_sass\\minimal-mistakes\\skins"
   ],
-  "SelectedNode": "\\_pages\\galeria.markdown",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\_sass",
+  "PreviewInSolutionExplorer": true
 }
