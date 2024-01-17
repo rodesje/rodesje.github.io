@@ -3,8 +3,13 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\_data",
+    "\\_galeria",
     "\\_includes",
-    "\\_posts"
+    "\\_pages",
+    "\\_posts",
+    "\\_site"
   ],
+  "SelectedNode": "\\_site\\index.html",
   "PreviewInSolutionExplorer": true
 }
