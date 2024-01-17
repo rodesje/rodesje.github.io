@@ -10,7 +10,6 @@ tags:
   - formatting
   - html
   - markup
-toc: true
 ---
 
 A variety of common markup showing how the theme styles them.

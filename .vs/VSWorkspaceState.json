@@ -4,9 +4,8 @@
     "\\assets",
     "\\assets\\css",
     "\\_includes",
-    "\\_sass\\minimal-mistakes",
-    "\\_sass\\minimal-mistakes\\skins"
+    "\\_posts"
   ],
-  "SelectedNode": "\\_sass",
+  "SelectedNode": "\\_data",
   "PreviewInSolutionExplorer": true
 }
