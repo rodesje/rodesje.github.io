@@ -278,6 +278,7 @@ DEPENDENCIES
   jekyll-archives
   jekyll-feed (~> 0.12)
   jekyll-include-cache
+  jekyll-sitemap
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
