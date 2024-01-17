@@ -36,6 +36,13 @@ url: "https://rodesje.github.io/" # the base hostname & protocol for your site, 
 twitter_username: 
 github_username:  rodesje
 
+comments:
+  provider: "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname: hieloydesierto
+
+
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -112,7 +119,6 @@ defaults:
 #Pagination
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-
 
 #include
 include: 
