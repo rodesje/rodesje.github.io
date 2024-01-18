@@ -1,7 +1,9 @@
 ﻿---
 layout: home
 header:
- excerpt: Prueba de texto con **markdown**
- overlay_image: "/assets/images/DSC_Pano.jpg"
+  overlay_image: "/assets/images/DSC_Pano.jpg"
+excerpt: >
+  Prueba de texto con **markdown**
 permalink: /
+logo: "/assets/images/icon.png"
 ---

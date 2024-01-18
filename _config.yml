@@ -26,6 +26,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site settings
 locale: "es"
 title: "HIELO Y DESIERTO"
+title_separator          : "-"
+subtitle                 : "site tagline that appears below site title in masthead"
+name                     : "HIELO Y DESIERTO"
+description              : "Un blog personal"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -41,6 +45,11 @@ comments:
   disqus:
     shortname: hieloydesierto
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-6VFSBXZCYZ"
+    anonymize_ip: true # default
 
 
 plugins:
@@ -124,5 +133,4 @@ paginate_path: /page:num/
 include: 
     - _pages
 
- 
-        
+         

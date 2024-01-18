@@ -1,11 +1,13 @@
 ﻿# main links
 main:
-  - title: "Sobre mí"
-    url: /sobre mi/
+  - title: "Inicio"
+    url: /index.html/
   - title: "Galería"
     url: /galeria/
   - title: "Archivo"
     url: /year-archive/
+  - title: "Sobre el sitio"
+    url: /sobre mi/
 docs:
   - title: Getting Started
     children:
