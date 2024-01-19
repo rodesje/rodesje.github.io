@@ -39,6 +39,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rodesje.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  rodesje
+breadcrumbs: true
 
 comments:
   provider: "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -57,6 +58,18 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-archives
+
+#breadcrumbs
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

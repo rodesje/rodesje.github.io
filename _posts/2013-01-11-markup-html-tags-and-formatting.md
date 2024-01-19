@@ -3,7 +3,7 @@ title: "Markup: HTML Tags and Formatting"
 header:
   teaser: "/assets/images/teaser/bangladesh 1190x390.jpg"
 categories:
-  - Markup
+  - Blog
 tags:
   - content
   - css
