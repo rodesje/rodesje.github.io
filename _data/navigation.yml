@@ -1,7 +1,7 @@
 ﻿# main links
 main:
   - title: "Inicio"
-    url: /index.html/
+    url:
   - title: "Galería"
     url: /galeria/
   - title: "Archivo"

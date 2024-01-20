@@ -1,13 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\_data",
+    "\\_galeria",
     "\\_pages",
-    "\\_posts",
-    "\\_site",
-    "\\_site\\assets",
-    "\\_site\\assets\\css"
+    "\\_posts"
   ],
-  "SelectedNode": "\\_site\\assets\\css\\main.css",
+  "SelectedNode": "\\_posts\\2010-01-07-post-standard.md",
   "PreviewInSolutionExplorer": true
 }

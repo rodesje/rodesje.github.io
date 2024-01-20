@@ -3,7 +3,7 @@ layout: single
 title: Sobre mí
 permalink: /sobre mi/
 author_profile: true
-
+breadcrumbs: false
 ---
 ![Bangladesh](https://i.imgur.com/71mKnBC.jpg)
 
