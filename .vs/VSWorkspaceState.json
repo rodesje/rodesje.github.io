@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\images",
     "\\_data",
     "\\_galeria",
     "\\_pages",
     "\\_posts"
   ],
+  "SelectedNode": "\\assets\\images\\profile.jpg",
   "PreviewInSolutionExplorer": true
 }
