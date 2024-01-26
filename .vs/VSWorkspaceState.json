@@ -1,13 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\images",
-    "\\_data",
-    "\\_galeria",
     "\\_pages",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass\\minimal-mistakes",
+    "\\_sass\\minimal-mistakes\\skins",
+    "\\_site",
+    "\\_site\\assets",
+    "\\_site\\assets\\css"
   ],
-  "SelectedNode": "\\assets\\images\\profile.jpg",
+  "SelectedNode": "\\_site\\assets\\css\\main.css",
   "PreviewInSolutionExplorer": true
 }
