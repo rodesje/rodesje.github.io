@@ -6,11 +6,8 @@
     "\\_posts",
     "\\_sass",
     "\\_sass\\minimal-mistakes",
-    "\\_sass\\minimal-mistakes\\skins",
-    "\\_site",
-    "\\_site\\assets",
-    "\\_site\\assets\\css"
+    "\\_sass\\minimal-mistakes\\skins"
   ],
-  "SelectedNode": "\\_sass\\minimal-mistakes\\_variables.scss",
+  "SelectedNode": "\\assets\\css\\main.scss",
   "PreviewInSolutionExplorer": true
 }
