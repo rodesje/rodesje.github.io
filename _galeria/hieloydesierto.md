@@ -1,6 +1,6 @@
 ---
 title: "Hielo y Desierto"
-layout: single
+layout: collection
 gallery:
   - url: https://live.staticflickr.com/65535/53509239458_5ca96ac890_k.jpg
     image_path: https://live.staticflickr.com/65535/53509239458_5ca96ac890_k.jpg
@@ -11,5 +11,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Penitentes"
 ---
-{% include gallery id="gallery" layout ="half" %}
+<p>Existen pocos lugares en el mundo en donde coexistan el clima desértico y los glaciares.</p> 
+
+{% include gallery id="gallery" layout ="center" %}
 

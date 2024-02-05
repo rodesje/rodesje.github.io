@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.jekyll-cache",
-    "\\.jekyll-cache\\Jekyll",
-    "\\.jekyll-cache\\Jekyll\\Cache",
+    "\\_data",
     "\\_galeria",
-    "\\_pages"
+    "\\_layouts"
   ],
-  "SelectedNode": "\\_galeria\\Gis.md",
+  "SelectedNode": "\\_galeria\\test.md",
   "PreviewInSolutionExplorer": true
 }

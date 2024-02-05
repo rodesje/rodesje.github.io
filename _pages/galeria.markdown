@@ -25,9 +25,12 @@ gallery1:
     alt: "placeholder image 1"
     title: "Nube"
 ---
-*Fotos, mapas, imágenes satelitales*
+<p>
+</p>
+<a href="/galeria/hieloydesierto" class="btn btn--primary">Hielo y Desierto</a>
+<p>
+</p>
 
-[Hielo y Desierto](/galeria/hieloydesierto){: .btn .btn--primary }{: .text-center}
 {% include gallery id="gallery" layout ="half" %}
 
 [Mapas, fotogrametría, análisis espacial](/galeria/gis){: .btn .btn--primary .btn--small}

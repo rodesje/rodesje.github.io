@@ -42,6 +42,7 @@ GEM
     faraday-retry (2.2.0)
       faraday (~> 2.0)
     ffi (1.16.3-x64-mingw-ucrt)
+    flickr (2.1.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (228)
@@ -132,6 +133,8 @@ GEM
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-flickr (0.2.1)
+      flickr (~> 2.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-github-metadata (2.13.0)
@@ -277,6 +280,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll-archives
   jekyll-feed (~> 0.12)
+  jekyll-flickr
   jekyll-include-cache
   jekyll-sitemap
   tzinfo (>= 1, < 3)
