@@ -68,6 +68,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-flickr
  
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -139,6 +140,10 @@ defaults:
 #Pagination
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+
+flickr:
+  api_key: <6d5f1f3f7917c65869af34313d907018>
+  api_secret: <b9602086f2d91105>
 
 #include
 include: 

@@ -27,14 +27,16 @@ gallery1:
 ---
 *Fotos, mapas, imágenes satelitales*
 
-[Dron](/galeria/gis){: .btn .btn--primary .btn--small}
+[Hielo y Desierto](/galeria/hieloydesierto){: .btn .btn--primary }{: .text-center}
+{% include gallery id="gallery" layout ="half" %}
+
+[Mapas, fotogrametría, análisis espacial](/galeria/gis){: .btn .btn--primary .btn--small}
 
 <figure class="half"><a href="/assets/images/DJI_0541.jpg"><img src="/assets/images/DJI_0541.jpg"></a>
     <a href="/assets/images/Pano-3.jpg"><img src="/assets/images/Pano-3.jpg"></a>
     </figure>
 
-[Montañas](#link){: .btn .btn--primary .btn--large}{: .text-center}
-{% include gallery id="gallery" layout ="half" %}
+
 **B&W**
 {% include gallery id="gallery1" %}
 

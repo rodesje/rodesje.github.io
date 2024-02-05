@@ -1,13 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\css",
-    "\\_posts",
-    "\\_sass",
-    "\\_sass\\minimal-mistakes",
-    "\\_sass\\minimal-mistakes\\skins"
+    "\\.jekyll-cache",
+    "\\.jekyll-cache\\Jekyll",
+    "\\.jekyll-cache\\Jekyll\\Cache",
+    "\\_galeria",
+    "\\_pages"
   ],
-  "SelectedNode": "\\assets\\css\\main.scss",
+  "SelectedNode": "\\_galeria\\Gis.md",
   "PreviewInSolutionExplorer": true
 }
