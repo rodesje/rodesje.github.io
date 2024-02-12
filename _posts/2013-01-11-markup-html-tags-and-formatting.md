@@ -1,5 +1,6 @@
 ---
 title: "Markup: HTML Tags and Formatting"
+excerpt: "People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all."
 header:
   teaser: "/assets/images/teaser/bangladesh 1190x390.jpg"
 categories:

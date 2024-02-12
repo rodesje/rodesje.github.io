@@ -2,4 +2,5 @@
 layout: home
 header:
   image: /assets/images/Pano-3.jpg
+author_profile: true
 ---

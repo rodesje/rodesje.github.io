@@ -14,7 +14,7 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
-excerpt: Prueba de texto con **markdown**
+excerpt: Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.                                          
 header:
   teaser: "/assets/images/teaser/ojosdelsalado_retorno.jpg"
   overlay_image: "/assets/images/Imagen1.jpg"
