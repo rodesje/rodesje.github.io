@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\css",
-    "\\assets\\images",
     "\\_galeria",
     "\\_layouts",
     "\\_pages",
     "\\_posts"
   ],
-  "SelectedNode": "\\_pages\\sobre mi.markdown",
+  "SelectedNode": "\\_pages\\home.markdown",
   "PreviewInSolutionExplorer": true
 }
