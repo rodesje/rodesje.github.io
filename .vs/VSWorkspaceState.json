@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_galeria",
-    "\\_layouts",
+    "\\assets",
+    "\\assets\\css",
+    "\\_includes",
+    "\\_includes\\analytics-providers",
+    "\\_includes\\head",
     "\\_pages",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass",
+    "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\_pages\\home.markdown",
+  "SelectedNode": "\\_sass\\minimal-mistakes\\_base.scss",
   "PreviewInSolutionExplorer": true
 }
