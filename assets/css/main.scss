@@ -28,7 +28,7 @@ search: false
   .sidebar__right.sticky { clear: both; position: -webkit-sticky; position: sticky; top: 2em; float: right; }
   .sidebar__right.sticky::after { clear: both; content: ""; display: table; }
   .sidebar__right.sticky .toc .toc__menu { overflow-y: auto; max-height: calc(100vh - 7em); } }
-@media (min-width: 80em) { .sidebar__right { width: 230px; margin-right: -220px; } }
+@media (min-width: 80em) { .sidebar__right { width: 220px; margin-right: -230px; } }
 
 @media (min-width: 64em) { .splash .sidebar__right { position: relative; float: right; margin-right: 0; } }
 @media (min-width: 80em) { .splash .sidebar__right { margin-right: 0; } }
