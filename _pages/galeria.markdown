@@ -33,7 +33,7 @@ gallery1:
 
 {% include gallery id="gallery" layout ="half" %}
 
-[Mapas, fotogrametría, análisis espacial](/galeria/gis){: .btn .btn--primary .btn--small}
+[Mapas, fotogrametría, análisis espacial](/galeria/maps){: .btn .btn--primary .btn--small}
 
 <figure class="half"><a href="/assets/images/DJI_0541.jpg"><img src="/assets/images/DJI_0541.jpg"></a>
     <a href="/assets/images/Pano-3.jpg"><img src="/assets/images/Pano-3.jpg"></a>
