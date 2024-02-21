@@ -1,14 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\_data",
     "\\_galeria",
     "\\_includes",
     "\\_includes\\head",
     "\\_layouts",
-    "\\_pages",
-    "\\_site",
-    "\\_site\\assets"
+    "\\_pages"
   ],
-  "SelectedNode": "\\_pages\\galeria.markdown",
+  "SelectedNode": "\\_data\\ui-text.yml",
   "PreviewInSolutionExplorer": false
 }

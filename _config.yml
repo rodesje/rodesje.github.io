@@ -41,6 +41,7 @@ url: "https://rodesje.github.io" # the base hostname & protocol for your site, e
 twitter_username: 
 github_username:  rodesje
 breadcrumbs: true
+search: true
 
 comments:
   provider: "disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
